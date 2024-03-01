@@ -5,6 +5,8 @@ Android - App that implements Firebase services such as Analytics, Authenticatio
 * Minimal version: Android 6 (Level 23)
 * Up to version: Android 14 (Level 34)
 * Firebase libraries with firebase-bom:32.7.2
+> [!NOTE]
+> Doesn't contain file: google-services.json. Add your own.
 
 ## Screen views
 ![firebase-img1 (1)](https://github.com/CarlosRTechDev/FirebaseApp/assets/76266019/2dc54111-993c-4e39-a9f2-a6864273568d)
