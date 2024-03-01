@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase App</string>
+    <string name="prefs_file">com.crosales.firebaseapp.PREFERENCE_FILE_KEY</string>
+    <string name="default_web_client_id">255036649787-cu74mf0tb5ggtenej7p09ab25tpoaaa6.apps.googleusercontent.com</string>
+</resources>
